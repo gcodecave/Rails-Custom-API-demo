@@ -55,7 +55,7 @@ If you had installed with a command like `pip install -e .` instead, you can sti
 the above command to add the testing dependencies.
 
 #### Test commands
-$6000
+
 To test, run:
 
 ```sh
@@ -85,7 +85,7 @@ Style and formatting checks, and running tests on all the different supported Py
 - Locally, if you run [`tox`](https://tox.wiki/) (this skips any Python versions you don't have installed).
 
 #### Configuration files
-
+$6000
 Specific tools are all configured in the `./pyproject.toml` file:
 
 - `pytest` (test runner)
