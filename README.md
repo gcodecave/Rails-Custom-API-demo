@@ -44,6 +44,7 @@ From PyPI
 To obtain and install a copy from PyPI, run:
 
 contact for full Ver.
+
 gcodecave@gmail.com
 
 ```sh
@@ -54,7 +55,7 @@ If you had installed with a command like `pip install -e .` instead, you can sti
 the above command to add the testing dependencies.
 
 #### Test commands
-
+$6000
 To test, run:
 
 ```sh
